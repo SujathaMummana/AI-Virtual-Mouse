@@ -21,7 +21,7 @@ Use the following command to install the dependencies:
 pip install opencv-python mediapipe pyautogui autopy
 Usage:
 Clone the repository:
-git clone https://github.com/singharyans754/AI-Virtual-Mouse.git
+git clone https://github.com/SujathaMummana/AI-Virtual-Mouse.git
 Run the project:
 python aivirtualmouseproject.py
 The webcam will open, and the program will track your hand movements to control the mouse cursor.
